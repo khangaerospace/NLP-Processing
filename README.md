@@ -1,2 +1,3 @@
 # NLP-Processing
-For Christina Stanford research 
+For Christina Stanford's research 
+
